@@ -283,7 +283,7 @@ nav ul li a:hover::after{
 .contact-right{
     width: 300%;
     text-align: center;
-    padding: 30fffpx 50px;
+    padding: 30px 50px;
     background: #ff004f;
     border-radius: 6px;
     font-weight: 300;
@@ -348,7 +348,7 @@ nav .fas{
 }
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(images2/pbackground.png);
 
     }
     .header-text{
